@@ -105,7 +105,7 @@ export default function Experience() {
                                         url,
                                         thumbnail
                                     }, i) =>
-                                        <Grid item xs={12} key={i}>
+                                        <Grid item sm={6} xs={12} key={i}>
                                             <Fade in={animate} style={{ transitionDelay: `${200 * i}ms` }}>
                                                 <Card className={classes.card}>
                                                     <CardActionArea
