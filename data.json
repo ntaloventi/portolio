@@ -1,0 +1,163 @@
+{
+    "name": "Burjo Team",
+    "landing": {
+        "title": "Hi, We are Burjo Team",
+        "subtitles": [
+            "Mobile-apps developer 📱💻",
+            "Full-stack developer 🌐",
+            "UI/UX designer 📱💻"
+        ],
+        "professionalDetails": [
+            {
+                "alt": "Iqbal Rizky",
+                "icon": "stackoverflow",
+                "link": "https://stackoverflow.com/users/4948527/iqbal-rizky"
+            },
+            {
+                "alt": "ntaloventi",
+                "icon": "github",
+                "link": "https://github.com/ntaloventi"
+            },
+            {
+                "alt": "Gmail",
+                "icon": "gmail",
+                "link": "mailto:ntaloventi@gmail.com"
+            }
+        ]
+    },
+    "skills": {
+        "Base Languages": [
+            "Javascript",
+            "Java",
+            "Swift",
+            "Php"
+        ],
+        "Frontend": [
+            "React",
+            "Next.js",
+            "Tailwind CSS",
+            "Bootstrap"
+        ],
+        "Backend": [
+            "Node.js",
+            "Next.js",
+            "Express",
+            "Laravel"
+        ],
+        "Database": [
+            "MongoDB",
+            "MySQL",
+            "PostgreSQL",
+            {
+                "alt": "Microsoft SQl Server",
+                "icon": "microsoftsqlserver"
+            }
+        ],
+        "Mobile": [
+            "Android",
+            "iOS",
+            "Flutter"
+        ],
+        "Others": [
+            "Proxmox",
+            "Portainer",
+            "Docker",
+            {
+                "alt": "Google Maps",
+                "icon": "googlemaps"
+            },
+            {
+                "alt": "Firebase",
+                "icon": "firebase"
+            }
+        ]
+    },
+    "projects": {
+        "baseURI": "https://api.github.com/repos/kausko/",
+        "repositories": [
+            "Portfolio",
+            "Genrealize",
+            "Discord-Google-Drive-Bot",
+            "GitHits",
+            "Mail-em",
+            "JAutoLayout"
+        ]
+    },
+    "experience": {
+        "Work Experience": [
+            {
+                "organization": "Yeloocare Indonesia",
+                "role": "Android & iOS Developer",
+                "type": "Project",
+                "startDate": "2020-12-01",
+                "endDate": "2021-05-01",
+                "city": "Bandung",
+                "state": "Jawa Barat",
+                "country": "Indonesia",
+                "url": "https://yeloo.co.id/",
+                "thumbnail": "/yeloo.png"
+            },
+            {
+                "organization": "Obbi Grup",
+                "role": "Full Stack Developer",
+                "type": "Project",
+                "startDate": "2019-03-01",
+                "endDate": "2020-12-01",
+                "city": "Tangerang",
+                "state": "Banten",
+                "country": "Indonesia",
+                "url": "https://obbi.co.id",
+                "thumbnail": "/obbi.png"
+            },
+            {
+                "organization": "Tukang Bersih",
+                "role": "Android & iOS Developer",
+                "type": "Project",
+                "startDate": "2017-09-01",
+                "endDate": "2020-01-01",
+                "city": "Jakarta Barat",
+                "state": "Jakarta",
+                "country": "Indonesia",
+                "url": "https://tukangbersih.com/",
+                "thumbnail": "/tbi.jpg"
+            },
+            {
+                "organization": "Surya Teknologi",
+                "role": "Android Developer",
+                "type": "Project",
+                "startDate": "2016-01-01",
+                "endDate": "2017-09-01",
+                "city": "Tangerang",
+                "state": "Banten",
+                "country": "Indonesia",
+                "url": "https://jimmat.com",
+                "thumbnail": "/gowes.jpg"
+            }
+        ]
+    },
+    "about": {
+        "description": "We are group of full-stack cross-platform app developer. We strive to make meaningful applications with the best UI practices. ",
+        "picture": "https://lh6.googleusercontent.com/-l5oy9kjWzuE/AAAAAAAAAAI/AAAAAAAAANw/a7ceeWp0J8I/photo.jpg?sz=256",
+        "social": []
+    },
+    "theme": {
+        "light": {
+            "palette": {
+                "type": "light",
+                "background": {
+                    "paper": "#fff",
+                    "default": "#fafafa"
+                }
+            }
+        },
+        "dark": {
+            "palette": {
+                "type": "dark",
+                "background": {
+                    "paper": "#303030",
+                    "default": "#212121"
+                }
+            }
+        }
+    }
+}
